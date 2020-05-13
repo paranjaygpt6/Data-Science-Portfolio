@@ -15,8 +15,9 @@ Libraries Used: Pandas, Numpy, Matplotlib, Seaborn and Plotly
 ## General concept based projects
 * [Data Merging](https://github.com/paranjaygpt6/Data-Science-Portfolio/blob/master/Conceptual%20Projects/Merging_Datasets_eda.ipynb) - A simple project to understand the concept of Data Merging using Pandas
 
-* [Web Scraping HTML Tables - 4 Ways]() - In this project I have explored the different ways in which we can web scrape a HTML table. We have used Pandas, lxml, Scrapy and BeautifulSoup to webscrape the same table.
+* [Web Scraping HTML Tables - 4 Ways](https://github.com/paranjaygpt6/Data-Science-Portfolio/blob/master/Conceptual%20Projects/Webscraping%20HTML%20tables.ipynb) - In this project I have explored the different ways in which we can web scrape a HTML table. We have used Pandas, lxml, Scrapy and BeautifulSoup to webscrape the same table.
 
-
+## Machine Learning Projects
+* [Supervised Learning - K Nearest Neighbours](https://github.com/paranjaygpt6/Data-Science-Portfolio/blob/master/KNN%20Social%20Media%20Ads/Social%20Network%20Ads%20K%20Means%20Clustering.ipynb) - This project makes use of the K-NN on a customer database that bought an SUV based on online advertisements
 
 
